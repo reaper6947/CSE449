@@ -2,16 +2,16 @@ link : https://www.udemy.com/course/database-engines-crash-course/
 these are the topics that i have learned from this course 
 ## Table of Contents
 
-** ACID Properties **
+**ACID Properties**
 **Database Indexing**
 **Database Partitioning**
 **Database Replication**
 **Database Sharding**
 **Database Cursors**
-**Concurrency Control **
+**Concurrency Control**
 **B-Trees in Production Database Systems**
 **Database System Designs**
-**Database Engines **
+**Database Engines**
 **Database Security**
 
 
