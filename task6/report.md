@@ -2,17 +2,28 @@ link : https://www.udemy.com/course/database-engines-crash-course/
 these are the topics that i have learned from this course 
 ## Table of Contents
 
-**ACID Properties**
-**Database Indexing**
-**Database Partitioning**
-**Database Replication**
-**Database Sharding**
-**Database Cursors**
-**Concurrency Control**
-**B-Trees in Production Database Systems**
-**Database System Designs**
-**Database Engines**
-**Database Security**
+**ACID Properties**  
+
+**Database Indexing**  
+
+**Database Partitioning**  
+
+**Database Replication**  
+
+**Database Sharding**  
+
+**Database Cursors**  
+
+**Concurrency Control**  
+
+**B-Trees in Production Database Systems**  
+
+**Database System Designs**  
+
+**Database Engines**  
+
+**Database Security**  
+
 
 
  <hr>
@@ -39,7 +50,7 @@ these are the topics that i have learned from this course
 **Database Cursors**
 * Cursors are a way of processing large amounts of data in a database one row at a time. They allow you to define a result set and then iterate through it one row at a time, performing some action on each row as you go. This can be useful when working with large datasets because it allows you to process the data in smaller chunks rather than all at once.
 
-**Concurrency Control **
+**Concurrency Control**
 * Concurrency control is a technique used to ensure that multiple transactions can be completed concurrently without conflicting with each other. This is important because it allows multiple users to access and update the database at the same time without causing conflicts.
 
 **B-Trees in Production Database Systems**
@@ -48,7 +59,7 @@ these are the topics that i have learned from this course
 **Database System Designs**
 * A database system design is a blueprint for organizing and storing data in a database. It includes the logical and physical design of the database, as well as the database management system (DBMS) used to access and manipulate the data. A well-designed database system can make it easier to store, retrieve, and analyze data, and can help ensure the integrity and security of the data.
 
-**Database Engines **
+**Database Engines**
 * A database engine is a software that is responsible for storing, processing, and securing data stored in a database. There are various types of database engines, including relational database management systems (RDBMS), object-oriented database management systems (OODBMS), and NoSQL database management systems.
 
 **Database Security**
